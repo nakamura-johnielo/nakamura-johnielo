@@ -1,97 +1,156 @@
-# **Front & Back End ENGINEER / UX-UI DESIGNER**
+<!--
+Profile README (GitHub renders this repository's README on your profile)
+Tip: Keep layout mobile-friendly (avoid wide multi-column tables).
+-->
 
-必要なものを自ら作る習慣があり、ゲームから机まで様々な物を作ってきました。<br>
-個人プロジェクトを含めると、アプリ開発、Google Cloud Compute Engineでのサーバー管理、pythonやAIを使った自動化、リバースエンジニアリング、Unityを使ったゲーム制作などを行ってきました。
+<div align="center">
 
-## ▶ 職歴
-### ● デザインファーム *(2024~2025)*
-**グラフィック、UX/UIデザイナー**として活動
-- アプリのUX/UI設計
-- 社内面談の日時決めの自動化
-- 依頼管理の一部自動化とSlack連携
-### ● ペット系ベンチャー企業 *(2023~)*
-**エンジニア**として活動
-- ペットショップの最適化とDX化
-- それを支えるツールのプロトタイプ
-- web制作
+# **Front & Back End Engineer / UX-UI Designer**
 
-## ▶ MY PROJECTS
-### ● **[My Dic](https://github.com/nakamura-johnielo/my_dic)** 
-**[>デモあり](https://my-dic-flutter-portfolio.firebaseapp.com/)** <br>
-flutterを使ったスペイン語語学習アプリ。デバイス間リアルタイム同期、ログイン機能<br>
-flutter/firebase/sqlite
+とにかく「作る」ことが好きで、個人開発を含めてアプリ開発・サーバー運用・自動化・ゲーム制作などを行ってきました。
 
-### ● 自前サーバー
-google cloud computeでdockerを使いサーバーを運営。メモアプリのプラグインでリアルタイム同期を実現するために始動。独自ドメインでhttps化済み。将来的にはポートフォリオをここから配信したい
+</div>
 
-### ● **[ポートフォリオサイト](https://nakamura-johnielo-portfolio.vercel.app/)** 
-*開発中...*<br>
-一部掲載済み<br>
-nextjs
+## Quick Links
 
+<p align="left">
+  <!-- <a href="https://nakamura-johnielo-portfolio.vercel.app/">
+    <img src="https://cdn.simpleicons.org/vercel/7F7F7F" width="18" alt="Vercel"/>&nbsp;Portfolio
+  </a>
+  &nbsp;&nbsp;|&nbsp;&nbsp; -->
+  <a href="https://github.com/nakamura-johnielo/my_dic">
+    <img src="https://cdn.simpleicons.org/github/7F7F7F" width="18" alt="GitHub"/>&nbsp;My Dic (Repo)
+  </a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://my-dic-flutter-portfolio.firebaseapp.com/">
+    <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="18" alt="Firebase"/>&nbsp;My Dic (Demo)
+  </a>
+</p>
 
-### ● CLツール
-- クリーンアーキテクチャのフォルダとファイル生成
-- 画像ソフトの一括書き出し
-- pdf,画像関連
+---
 
-### ● アプリ
-- android キーボードアプリ
-- android　辞書アプリ
-- ファイルコンバータ―
-- python自動化ツール
+## Highlights
 
-### ● web（練習）
-- **[豆腐屋](https://nakamura-johnielo.github.io/men-dofu-website/)** <br>
-- **[ベイプショップ](https://vape-shop-demo-darktheme.vercel.app/)** <br>
-- **[ベイプショップ](https://vape-shop-demo.vercel.app/)** <br>
-- **[出欠確認ウェブアプリ](https://leones-manager-app.vercel.app/)** <br>
-- **[アパレルショップ](https://unbirthday-color.vercel.app/)** <br>
+- アプリの UX/UI 設計と実装（Flutter / Web）
+- Google Cloud Compute Engine + Docker でのサーバー運用（独自ドメイン・HTTPS）
+- Python / AI を使った業務自動化（スクリプト・ツール化）
 
-## ▶ SKILLS
+---
 
-<table>
-  <tr>
-  <td valign="top">
-    <h3>Languages</h3>
-    <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="23" alt="Python"/>&nbsp;&nbsp;&nbsp;Python</p>
-    <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="24" alt="Java"/>&nbsp;&nbsp;&nbsp;Java</p>
-    <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="20" alt="TypeScript"/>&nbsp;&nbsp;&nbsp;TypeScript</p>
-    <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" alt="JavaScript"/>&nbsp;&nbsp;&nbsp;JavaScript</p>
-    <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="20" alt="Dart"/> &nbsp;&nbsp;&nbsp;Dart</p>
-  </td>
-    <td valign="top">
-      <h3>Frameworks</h3>
-      <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="20" alt="Flutter"/> &#8201;&#8201;&#8201;Flutter</p>
-      <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="22" alt="Next.js"/> &#8201;&#8201;&#8201;Next.js</p>
-    </td>
-    <td valign="top">
-      <h3>Backend & DB</h3>
-      <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="20" alt="Firebase"/> &#8201;&#8201;&#8201;Firebase</p>
-      <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="20" alt="SQLite"/> &#8201;&#8201;&#8201;SQLite</p>
-      <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="20" alt="Supabase"/> &#8201;&#8201;&#8201;Supabase</p>
-      <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="20" alt="Prisma"/> &#8201;&#8201;&#8201;Prisma</p>
-      <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20" alt="MySQL"/> &#8201;&#8201;&#8201;MySQL</p>
-    </td>
-        <td valign="top">
-      <h3>Infrastructure</h3>
-      <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="26" alt="Docker"/> &#8201;&#8201;&#8201;Docker</p>
-      <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="20" alt="Google Cloud"/> &#8201;&#8201;&#8201;Google Cloud</p>
-    </td>
-    <td valign="top">
-      <h3>Engines & SDKs</h3>
-      <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="20" alt="Android"/> &#8201;&#8201;&#8201;Android</p>
-      <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="20" alt="Unity"/> &#8201;&#8201;&#8201;Unity</p>
-      <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" width="20" alt="Unreal Engine"/> &#8201;&#8201;&#8201;Unreal Engine</p>
-    </td>
-    <td valign="top">
-      <h3>Others</h3>
-      <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="18" alt="Figma"/> &#8201;&#8201;&#8201;Figma</p>
-      <p><!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adobe-illustrator/adobe-illustrator-original.svg" width="20" alt="Adobe Illustrator"/> &#8201;&#8201;&#8201; -->Adobe Illustrator</p>
-      <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="20" alt="Blender"/> &#8201;&#8201;&#8201;Blender</p>
-      <!-- <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/><br>
-      <img src="https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator"/><br>
-      <img src="https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/> -->
-    </td>
-</tr>
+## Featured Projects
+
+### My Dic — スペイン語学習アプリ
+
+- Links: [Repo](https://github.com/nakamura-johnielo/my_dic) / [Demo](https://my-dic-flutter-portfolio.firebaseapp.com/)
+- Stack: Flutter / Firebase / SQLite
+- Notes: デバイス間リアルタイム同期、ログイン機能
+
+### Self-hosted Server — 個人サーバー運用
+
+- Platform: Google Cloud Compute Engine
+- Infra: Docker / Domain / HTTPS
+- Notes: メモアプリ連携など、リアルタイム同期用途で運用
+
+### Portfolio Site
+
+- Link: https://nakamura-johnielo-portfolio.vercel.app/
+- Stack: Next.js
+- Status: 開発中（一部掲載）
+
+### Others
+
+<details>
+  <summary>Open</summary>
+
+- **CLI tools**: クリーンアーキテクチャの雛形生成 / 画像一括書き出し / PDF・画像関連
+- **Apps**: Android キーボード / Android 辞書 / ファイルコンバータ / Python 自動化ツール
+- **Web 練習**:
+  - https://nakamura-johnielo.github.io/men-dofu-website/
+  - https://vape-shop-demo-darktheme.vercel.app/
+  - https://vape-shop-demo.vercel.app/
+  - https://leones-manager-app.vercel.app/
+  - https://unbirthday-color.vercel.app/
+
+</details>
+
+---
+
+## Skills
+
+### Languages
+
+<table border="0" cellspacing="0" cellpadding="4">
+  <tr><td valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python"/></td><td valign="middle">Python</td></tr>
+  <tr><td valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="18" alt="Java"/></td><td valign="middle">Java</td></tr>
+  <tr><td valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript"/></td><td valign="middle">TypeScript</td></tr>
+  <tr><td valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript"/></td><td valign="middle">JavaScript</td></tr>
+  <tr><td valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="18" alt="Dart"/></td><td valign="middle">Dart</td></tr>
 </table>
+
+### Frameworks
+
+<table border="0" cellspacing="0" cellpadding="4">
+  <tr><td valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="18" alt="Flutter"/></td><td valign="middle">Flutter</td></tr>
+  <tr><td valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="18" alt="Next.js"/></td><td valign="middle">Next.js</td></tr>
+</table>
+
+### Backend & DB
+
+<table border="0" cellspacing="0" cellpadding="4">
+  <tr><td valign="middle"><img src="https://cdn.simpleicons.org/firebase/FFCA28" width="18" alt="Firebase"/></td><td valign="middle">Firebase</td></tr>
+  <tr><td valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="18" alt="SQLite"/></td><td valign="middle">SQLite</td></tr>
+  <tr><td valign="middle"><img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="18" alt="Supabase"/></td><td valign="middle">Supabase</td></tr>
+  <tr><td valign="middle"><img src="https://cdn.simpleicons.org/prisma/2D3748" width="18" alt="Prisma"/></td><td valign="middle">Prisma</td></tr>
+  <tr><td valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="18" alt="MySQL"/></td><td valign="middle">MySQL</td></tr>
+</table>
+
+### Infrastructure / DevOps
+
+<table border="0" cellspacing="0" cellpadding="4">
+  <tr><td valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="18" alt="Docker"/></td><td valign="middle">Docker</td></tr>
+  <tr><td valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="18" alt="Google Cloud"/></td><td valign="middle">Google Cloud</td></tr>
+</table>
+
+### Engines / SDKs
+
+<table border="0" cellspacing="0" cellpadding="4">
+  <tr><td valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="18" alt="Android"/></td><td valign="middle">Android</td></tr>
+  <tr><td valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="18" alt="Unity"/></td><td valign="middle">Unity</td></tr>
+  <tr><td valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="18" alt="Unreal Engine"/></td><td valign="middle">Unreal Engine</td></tr>
+  
+</table>
+
+### Design
+
+<table border="0" cellspacing="0" cellpadding="4">
+  <tr><td valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="18" alt="Figma"/></td><td valign="middle">Figma</td></tr>
+  <tr><td valign="middle"><!-- <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" width="18" alt="Adobe Illustrator"/> --></td><td valign="middle">Adobe Illustrator</td></tr>
+  <tr><td valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="18" alt="Blender"/></td><td valign="middle">Blender</td></tr>
+</table>
+
+---
+
+## Experience
+
+### デザインファーム (2024–2025)
+
+- グラフィック / UX-UI デザイナー
+- アプリの UX/UI 設計、社内業務の自動化、Slack 連携
+
+### ペット系ベンチャー企業 (2023–)
+
+- エンジニア
+- 店舗運営の最適化・DX、ツールのプロトタイプ、Web 制作
+
+---
+
+## Contact
+
+<p align="left">
+  <a href="https://github.com/nakamura-johnielo">
+    <img src="https://cdn.simpleicons.org/github/7F7F7F" width="18" alt="GitHub"/>&nbsp;@nakamura-johnielo
+  </a>
+</p>
+
+
+

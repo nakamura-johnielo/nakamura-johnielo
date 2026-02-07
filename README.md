@@ -15,10 +15,6 @@ Tip: Keep layout mobile-friendly (avoid wide multi-column tables).
 ## Quick Links
 
 <p align="left">
-  <!-- <a href="https://nakamura-johnielo-portfolio.vercel.app/">
-    <img src="https://cdn.simpleicons.org/vercel/7F7F7F" width="18" alt="Vercel"/>&nbsp;Portfolio
-  </a>
-  &nbsp;&nbsp;|&nbsp;&nbsp; -->
   <a href="https://github.com/nakamura-johnielo/my_dic">
     <img src="https://cdn.simpleicons.org/github/7F7F7F" width="18" alt="GitHub"/>&nbsp;My Dic (Repo)
   </a>
@@ -26,6 +22,10 @@ Tip: Keep layout mobile-friendly (avoid wide multi-column tables).
   <a href="https://my-dic-flutter-portfolio.firebaseapp.com/">
     <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="18" alt="Firebase"/>&nbsp;My Dic (Demo)
   </a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://nakamura-johnielo-portfolio.vercel.app/">
+    <img src="https://cdn.simpleicons.org/vercel/7F7F7F" width="18" alt="Vercel"/>&nbsp;Portfolio
+  </a>(開発中...)
 </p>
 
 ---

@@ -7,7 +7,8 @@ Tip: Keep layout mobile-friendly (avoid wide multi-column tables).
 
 # **Front & Back End Engineer / UX-UI Designer**
 
-とにかく「作る」ことが好きで、個人開発を含めてアプリ開発・サーバー運用・自動化・ゲーム制作などを行ってきました。
+とにかく「作る」ことが好き。<br>
+個人開発を含めてアプリ開発・サーバー運用・自動化・ゲーム制作などを行ってきました。
 
 </div>
 
@@ -76,57 +77,9 @@ Tip: Keep layout mobile-friendly (avoid wide multi-column tables).
 ---
 
 ## Skills
+<!-- <img src="assets/skills.png" /> -->
+<img src="assets/skills_v2.png" />
 
-### Languages
-
-<table border="0" cellspacing="0" cellpadding="4">
-  <tr><td valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python"/></td><td valign="middle">Python</td></tr>
-  <tr><td valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="18" alt="Java"/></td><td valign="middle">Java</td></tr>
-  <tr><td valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript"/></td><td valign="middle">TypeScript</td></tr>
-  <tr><td valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript"/></td><td valign="middle">JavaScript</td></tr>
-  <tr><td valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="18" alt="Dart"/></td><td valign="middle">Dart</td></tr>
-</table>
-
-### Frameworks
-
-<table border="0" cellspacing="0" cellpadding="4">
-  <tr><td valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="18" alt="Flutter"/></td><td valign="middle">Flutter</td></tr>
-  <tr><td valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="18" alt="Next.js"/></td><td valign="middle">Next.js</td></tr>
-</table>
-
-### Backend & DB
-
-<table border="0" cellspacing="0" cellpadding="4">
-  <tr><td valign="middle"><img src="https://cdn.simpleicons.org/firebase/FFCA28" width="18" alt="Firebase"/></td><td valign="middle">Firebase</td></tr>
-  <tr><td valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="18" alt="SQLite"/></td><td valign="middle">SQLite</td></tr>
-  <tr><td valign="middle"><img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="18" alt="Supabase"/></td><td valign="middle">Supabase</td></tr>
-  <tr><td valign="middle"><img src="https://cdn.simpleicons.org/prisma/2D3748" width="18" alt="Prisma"/></td><td valign="middle">Prisma</td></tr>
-  <tr><td valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="18" alt="MySQL"/></td><td valign="middle">MySQL</td></tr>
-</table>
-
-### Infrastructure / DevOps
-
-<table border="0" cellspacing="0" cellpadding="4">
-  <tr><td valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="18" alt="Docker"/></td><td valign="middle">Docker</td></tr>
-  <tr><td valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="18" alt="Google Cloud"/></td><td valign="middle">Google Cloud</td></tr>
-</table>
-
-### Engines / SDKs
-
-<table border="0" cellspacing="0" cellpadding="4">
-  <tr><td valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="18" alt="Android"/></td><td valign="middle">Android</td></tr>
-  <tr><td valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="18" alt="Unity"/></td><td valign="middle">Unity</td></tr>
-  <tr><td valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="18" alt="Unreal Engine"/></td><td valign="middle">Unreal Engine</td></tr>
-  
-</table>
-
-### Design
-
-<table border="0" cellspacing="0" cellpadding="4">
-  <tr><td valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="18" alt="Figma"/></td><td valign="middle">Figma</td></tr>
-  <tr><td valign="middle"><!-- <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" width="18" alt="Adobe Illustrator"/> --></td><td valign="middle">Adobe Illustrator</td></tr>
-  <tr><td valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="18" alt="Blender"/></td><td valign="middle">Blender</td></tr>
-</table>
 
 ---
 
@@ -147,8 +100,8 @@ Tip: Keep layout mobile-friendly (avoid wide multi-column tables).
 ## Contact
 
 <p align="left">
-  <a href="https://github.com/nakamura-johnielo">
-    <img src="https://cdn.simpleicons.org/github/7F7F7F" width="18" alt="GitHub"/>&nbsp;@nakamura-johnielo
+  <a href="mailto:nakamura-johnielo@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail" width="18" alt="Gmail"/>&nbsp;nakamura.johnielo@gmail.com
   </a>
 </p>
 
